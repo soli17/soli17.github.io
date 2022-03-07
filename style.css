@@ -6,6 +6,6 @@ p {
   text-align: center;
 }
 
-#grad {
-  background-image: linear-gradient(blue, white);
+h2 {
+  background-color: #A0D5F0;
 }
